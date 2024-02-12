@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ealimardaniii/hello/issues"
   },
-  "homepage": "https://github.com/ealimardaniii/hello#readme"
+  "homepage": "https://github.com/ealimardaniii/hello#readme",
+  "publishConfig": {
+    "@ealimardaniii:registry": "https://npm.pkg.github.com"
+  }
 }
